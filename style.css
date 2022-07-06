@@ -1,0 +1,35 @@
+header{
+    width: 50%;
+    height: 150px;
+    background-color:green;
+    
+}
+
+
+main{
+display:inline ;
+justify-content:space-between;
+height: 600px;
+background-color: blue;
+}
+aside{
+    width: 250px ;
+    height: 250px;
+    background-color:purple;
+}
+article{
+    width: 75%;
+    height: 330px;
+    background-color:orange;
+   margin-left: 200px;
+   margin-top: 50;
+   border-bottom: 20;
+}
+aside{
+    width: 250px ;
+    height: 250px;
+    background-color:purple;
+}
+*{
+    background-image: url(https://www.tunisienumerique.com/wp-content/uploads/2020/10/ca-100-ans.jpg);
+}
